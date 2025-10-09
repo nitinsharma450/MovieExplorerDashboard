@@ -68,7 +68,10 @@
         margin-bottom: 7px;
         background: linear-gradient(135deg, #6f42c1, #9b59b6);;
     }
-    .genre-but button{
-        /* border-radius: 17px; */
-    }
+   .search{
+   @media (min-width: 523px) {
+  /* Styles for screens ≥ 769px */
+  
+}
+   }
   

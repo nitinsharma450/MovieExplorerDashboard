@@ -5,7 +5,14 @@
       {id:2, title:"Shadow Detective", year:2023, genre:"Action", duration:"1h 53m", rating:7.9, img:"assets/image2.png"},
       {id:3, title:"Love in Paris", year:2023, genre:"Romance", duration:"2h 10m", rating:7.2, img:"assets/image3.png"},
       {id:4, title:"The Last Laugh", year:2022, genre:"Comedy", duration:"1h 45m", rating:7.6, img:"assets/image4.png"},
-      {id:5, title:"Tears of Tomorrow", year:2024, genre:"Drama", duration:"2h 5m", rating:8.1, img:"assets/image5.png"}
+      {id:5, title:"Tears of Tomorrow", year:2024, genre:"Drama", duration:"2h 5m", rating:8.1, img:"assets/image5.png"},
+      {id:6, title:"Love in Paris", year:2023, genre:"Romance", duration:"2h 10m", rating:7.2, img:"assets/image3.png"},
+      {id:7, title:"The Last Laugh", year:2022, genre:"Comedy", duration:"1h 45m", rating:7.6, img:"assets/image4.png"},
+      {id:8, title:"Tears of Tomorrow", year:2024, genre:"Drama", duration:"2h 5m", rating:8.1, img:"assets/image5.png"}
+      ,
+      {id:9, title:"Love in Paris", year:2023, genre:"Romance", duration:"2h 10m", rating:7.2, img:"assets/image3.png"},
+      {id:10, title:"The Last Laugh", year:2022, genre:"Comedy", duration:"1h 45m", rating:7.6, img:"assets/image4.png"},
+      {id:11, title:"Tears of Tomorrow", year:2024, genre:"Drama", duration:"2h 5m", rating:8.1, img:"assets/image5.png"}
     ];
 
     let watchlist = JSON.parse(localStorage.getItem("watchlist")) || [];
